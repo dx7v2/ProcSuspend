@@ -10,3 +10,6 @@ ProcSuspend runs and suspends the program. And when you press any key, it resume
 # Build
 Visual studio 2017 is enough.
 .NET Framework 4.7.2
+
+# Credits
+Suspend/Resume methods from https://stackoverflow.com/questions/71257/suspend-process-in-c-sharp.
