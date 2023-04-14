@@ -1,7 +1,7 @@
 # ProcSuspend
 Suspend processes immediately and dump auto-closing apps.
 
-# Why do I need this actually?
+# Why do I need this?
 Sometimes there are programs which are closed by themselves when ther are done in too little time. With ProcSuspend, you can suspend it immediately after starting them and dump/analyze them easily.
 
 # How does it works?
